@@ -1,1 +1,2 @@
-Project report (work in progress): https://www.overleaf.com/15631426yvndxzddctpf
+Project report : https://www.overleaf.com/15631426yvndxzddctpf
+  -added the first alternative solution 
